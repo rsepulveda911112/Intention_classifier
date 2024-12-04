@@ -1,0 +1,8 @@
+simpletransformers
+transformers
+pandas
+tqdm
+matplotlib
+wandb
+pyyaml
+plotly

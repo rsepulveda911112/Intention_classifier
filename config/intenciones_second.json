@@ -1,0 +1,17 @@
+{
+    "model_type": "roberta",
+    "model_name": "PlanTL-GOB-ES/roberta-base-bne",
+    "wandb_project": "intenciones_global_new",
+    "classes": 13,
+    "best_result_config": "",
+    "is_evaluate": true,
+    "use_cuda": false,
+    "train_file": "/data/dataset_intenciones_train.json",
+    "test_file": "/data/dataset_intenciones_test.json",
+    "output_dir": "intenciones_global",
+    "label": "label",
+    "filter_label": "",
+    "filter_label_value": "",
+    "two_text": false,
+    "name_text_columns": ["text"]
+}
